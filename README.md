@@ -1,5 +1,5 @@
-# TheAgora
-TheAgora scans local news and community discussions to highlight issues affecting citizens. It gives representatives a transparent, research‑backed view of public sentiment, strengthening accountability and empowering communities to shape their future.
+# TheAgora — Where the community speaks, and leaders listen
+TheAgora connects communities with their elected representatives by highlighting local issues, public concerns, and sentiment from trusted sources. Built on transparency and open‑source principles, it empowers citizens to be heard and helps leaders respond to real community needs.
 
 
 # TheAgora — Civic Engagement Platform (Kotlin Multiplatform)
@@ -15,7 +15,7 @@ The application scans:
 …to identify issues affecting a neighbourhood or region. It then summarizes public sentiment and provides representatives with impartial, research-backed insights into what their community needs.
 
 ## ✨ Mission
-To strengthen democratic representation by giving every community a transparent, secure, and open-source channel to communicate with their MP, MLA, MPP, Senator, or local representative.
+TheAgora empowers communities by gathering local issues, public sentiment, and verified information into a transparent, open platform that connects citizens directly with their elected representatives. Inspired by the ancient Greek agora — the birthplace of public dialogue — TheAgora strengthens accountability, amplifies community voices, and helps leaders understand the real concerns shaping people’s lives.
 
 ## 🔐 Why Open Source?
 - Transparency builds trust  
