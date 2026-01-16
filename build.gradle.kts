@@ -20,6 +20,6 @@ kotlin {
 }
 
 android {
-    namespace = "org.theagora"
+    namespace = "org.demos"
     compileSdk = 34
 }
