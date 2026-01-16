@@ -1,39 +1,57 @@
-# TheAgora — Where the community speaks, and leaders listen
-TheAgora connects communities with their elected representatives by highlighting local issues, public concerns, and sentiment from trusted sources. Built on transparency and open‑source principles, it empowers citizens to be heard and helps leaders respond to real community needs.
+# Demos
 
+**Where the community speaks, and leaders listen.**
 
-# TheAgora — Civic Engagement Platform (Kotlin Multiplatform)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+[![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin-Multiplatform-purple.svg)](https://kotlinlang.org/lp/mobile/)
+[![Status: Active Development](https://img.shields.io/badge/Status-Active%20Development-green.svg)]()
 
-TheAgora is an open-source civic-tech application designed to empower communities by connecting constituents directly with their elected representatives.
+---
 
-The application scans:
-- Local news sources  
-- Social media platforms  
-- Community forums  
-- Public reports  
+### 👋 Welcome to Demos
 
-…to identify issues affecting a neighbourhood or region. It then summarizes public sentiment and provides representatives with impartial, research-backed insights into what their community needs.
+**Demos** (inspired by the ancient Greek *dēmos* — "the people") is an open-source civic engagement platform designed to bridge the gap between communities and their elected representatives.
 
-## ✨ Mission
-TheAgora empowers communities by gathering local issues, public sentiment, and verified information into a transparent, open platform that connects citizens directly with their elected representatives. Inspired by the ancient Greek agora — the birthplace of public dialogue — TheAgora strengthens accountability, amplifies community voices, and helps leaders understand the real concerns shaping people’s lives.
+In a world where voices can easily get lost in the noise, Demos helps citizens be heard and empowers leaders to respond to real human needs. By connecting verified local sentiment with transparent decision-making, we aim to strengthen democratic participation for everyone.
 
-## 🔐 Why Open Source?
-- Transparency builds trust  
-- Security researchers can audit the code  
-- Communities can adapt the tool to their needs  
-- Prevents misuse or closed-source appropriation  
+### ✨ Our Mission
 
-Licensed under **GPL‑3.0** to ensure the project remains free and open forever.
+We believe that a healthy democracy requires two things: **transparency** and **connection**.
 
-## 🛠️ Tech Stack
-- **Kotlin Multiplatform** (Android, iOS, Desktop, Web)
-- **Ktor** for networking
-- **SQLDelight** or **Realm** for local storage
-- **ML Kit / ONNX Runtime** for sentiment analysis
-- **Coroutines + Flow** for async pipelines
+Demos continuously analyzes signals from the places where your community already gathers—local news, social media, forums, and public reports—to identify the real issues affecting your neighborhood. It summarizes public sentiment and enables a democratic voting process recorded immutably on the blockchain.
 
-## 📦 Getting Started
+**For Citizens:** A direct line to express what matters most in your daily life.
+**For Representatives:** Impartial, research-backed insights into what your community truly needs.
+
+### 🔐 Why Open Source?
+
+Democracy belongs to everyone, and the tools we use to build it should too. We are open source because:
+* **Transparency builds trust:** You should know exactly how your data is handled and how votes are counted.
+* **Security:** Our code is open for security researchers to audit and improve.
+* **Adaptability:** Communities are unique. Open source allows anyone to adapt this tool to their specific local needs.
+* **Freedom:** Licensed under **GPL-3.0**, ensuring this project remains free and open forever.
+
+### 🛠️ Tech Stack
+
+We are building a modern, cross-platform experience using:
+
+* **Kotlin Multiplatform:** Sharing logic across Android, iOS, Desktop, and Web.
+* **Networking:** Ktor.
+* **Local Storage:** SQLDelight / Realm.
+* **Analysis:** ML Kit & ONNX Runtime for on-device sentiment analysis.
+* **Async Pipelines:** Coroutines + Flow.
+* **Blockchain:** (Currently researching the best eco-friendly ledger for immutable voting).
+
+### 📦 Getting Started
+
+We would love for you to try it out or help us build it!
+
 ```bash
-git clone https://github.com/gax1985/TheAgora.git
-cd TheAgora
+# Clone the repository
+git clone [https://github.com/gax1985/Demos.git](https://github.com/gax1985/Demos.git)
+
+# Navigate to the project directory
+cd Demos
+
+# Build the project
 ./gradlew build
