@@ -1,10 +1,14 @@
-# Summary
+## 📝 Description
+*(Briefly describe the changes you have made. What problem does this solve?)*
 
-## Changes
+## 🔗 Related Issue
+*(Is there an existing issue for this? e.g., "Fixes #123")*
 
-## Testing
+## 📸 Screenshots (if applicable)
+*(If you changed the UI, please attach a screenshot or GIF so we can see!)*
 
-## Checklist
-- [ ] Code is formatted
-- [ ] Tests added or updated
-- [ ] Documentation updated
+## ✅ Checklist
+- [ ] I have read the [Contributing Guidelines](CONTRIBUTING.md).
+- [ ] My code follows the code style of this project.
+- [ ] I have added tests to cover my changes (if applicable).
+- [ ] I have updated the documentation (if necessary).
